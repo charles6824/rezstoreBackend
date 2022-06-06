@@ -24,96 +24,96 @@ const products =[
     numReviews: 0
   },
   {
-    name: '',
+    name: 'Track Suit',
     image:
       '/images/hoodies/1.jpeg',
     description: 'Pink Hoodie Soft, plush and comfy. Great for lounging & keeping warm in the Fall & Winter months. 55% cotton. 45% poly. 100% your next go-to hoodie',
     brand: 'unisex',
-    category: 'hoodies',
+    category: 'tracksuit',
     price: 7500,
     countInStock: 100,
     rating: 5,
     numReviews: 0
   },
   {
-    name: '',
+    name: 'Colourful Shorts',
     image:
       '/images/hoodies/1.jpeg',
     description: 'Pink Hoodie Soft, plush and comfy. Great for lounging & keeping warm in the Fall & Winter months. 55% cotton. 45% poly. 100% your next go-to hoodie',
     brand: 'unisex',
-    category: 'hoodies',
+    category: 'shorts',
     price: 7500,
     countInStock: 100,
     rating: 5,
     numReviews: 0
   },
   {
-    name: '',
+    name: 'Green Sweat shirt',
     image:
       '/images/hoodies/1.jpeg',
     description: 'Pink Hoodie Soft, plush and comfy. Great for lounging & keeping warm in the Fall & Winter months. 55% cotton. 45% poly. 100% your next go-to hoodie',
     brand: 'unisex',
-    category: 'hoodies',
+    category: 'sweatshirt',
     price: 7500,
     countInStock: 100,
     rating: 5,
     numReviews: 0
   },
   {
-    name: '',
+    name: 'Staff Wear',
     image:
       '/images/hoodies/1.jpeg',
     description: 'Pink Hoodie Soft, plush and comfy. Great for lounging & keeping warm in the Fall & Winter months. 55% cotton. 45% poly. 100% your next go-to hoodie',
     brand: 'unisex',
-    category: 'hoodies',
+    category: 'uniform',
     price: 7500,
     countInStock: 100,
     rating: 5,
     numReviews: 0
   },
   {
-    name: '',
+    name: '2 in 1 Tanktop',
     image:
       '/images/hoodies/1.jpeg',
     description: 'Pink Hoodie Soft, plush and comfy. Great for lounging & keeping warm in the Fall & Winter months. 55% cotton. 45% poly. 100% your next go-to hoodie',
     brand: 'unisex',
-    category: 'hoodies',
+    category: 'tanktop',
     price: 7500,
     countInStock: 100,
     rating: 5,
     numReviews: 0
   },
   {
-    name: '',
+    name: 'White Sweat Track Suit',
     image:
       '/images/hoodies/1.jpeg',
     description: 'Pink Hoodie Soft, plush and comfy. Great for lounging & keeping warm in the Fall & Winter months. 55% cotton. 45% poly. 100% your next go-to hoodie',
     brand: 'unisex',
-    category: 'hoodies',
+    category: 'sweattracksuit',
     price: 7500,
     countInStock: 100,
     rating: 5,
     numReviews: 0
   },
   {
-    name: '',
+    name: 'classic joggers',
     image:
       '/images/hoodies/1.jpeg',
     description: 'Pink Hoodie Soft, plush and comfy. Great for lounging & keeping warm in the Fall & Winter months. 55% cotton. 45% poly. 100% your next go-to hoodie',
     brand: 'unisex',
-    category: 'hoodies',
+    category: 'joggers',
     price: 7500,
     countInStock: 100,
     rating: 5,
     numReviews: 0
   },
   {
-    name: '',
+    name: 'tracksuit premium wear',
     image:
       '/images/hoodies/1.jpeg',
     description: 'Pink Hoodie Soft, plush and comfy. Great for lounging & keeping warm in the Fall & Winter months. 55% cotton. 45% poly. 100% your next go-to hoodie',
     brand: 'unisex',
-    category: 'hoodies',
+    category: 'tracksuit',
     price: 7500,
     countInStock: 100,
     rating: 5,
